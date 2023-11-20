@@ -1,0 +1,6 @@
+C:\Users\tominio.269291\source\repos\BasicCalculator\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\tominio.269291\source\repos\BasicCalculator\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\tominio.269291\source\repos\BasicCalculator\ClassLibrary2\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\tominio.269291\source\repos\BasicCalculator\ClassLibrary2\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\tominio.269291\source\repos\BasicCalculator\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\tominio.269291\source\repos\BasicCalculator\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
